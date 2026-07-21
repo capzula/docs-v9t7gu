@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-i79z3u.cuansalam.sbs/sitemap.xml
